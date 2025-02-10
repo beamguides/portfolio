@@ -16,9 +16,10 @@ Pembuatan Website: Desain profesional, pengembangan fitur lengkap, dan optimasi 
 CCTV: Instalasi, pemantauan jarak jauh, dan integrasi sistem keamanan.
 Hubungi Kami:
 
-[Nomor Telepon]
-[Alamat Email]
-[Situs Web]
+*   Telegram : @beamguide
+*   email : beamguide@gmail.com
+*   website : https://beamguides.github.io/portfolio/
+*   Item zip
 
 * * *
 
