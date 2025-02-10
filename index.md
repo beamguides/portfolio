@@ -5,8 +5,6 @@ layout: default
 
 # Jasa management network, cctv, dan pembuatan website
 
-Tentu, ini contoh deskripsi portofolio singkat yang mencakup jasa manajemen jaringan, pembuatan website, dan CCTV:
-
 Beam Networking
 
 Solusi Teknologi untuk Bisnis Anda
