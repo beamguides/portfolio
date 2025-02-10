@@ -5,10 +5,6 @@ layout: default
 
 # Jasa management network, cctv, dan pembuatan website
 
-Beam Networking
-
-Solusi Teknologi untuk Bisnis Anda
-
 Kami menyediakan layanan teknologi terpadu:
 
 Manajemen Jaringan: Desain, implementasi, pemeliharaan, dan keamanan jaringan.
