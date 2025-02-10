@@ -19,8 +19,6 @@ Hubungi Kami:
 *   Telegram : @beamguide
 *   email : beamguide@gmail.com
 *   website : https://beamguides.github.io/portfolio/
-*   Item zip
-
 * * *
 
 | Website      | Networking        | CCTV  |
