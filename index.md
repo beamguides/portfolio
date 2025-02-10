@@ -3,51 +3,39 @@ layout: default
 ---
 
 
-# Header 1
+# Jasa management network, cctv, dan pembuatan website
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Tentu, ini contoh deskripsi portofolio singkat yang mencakup jasa manajemen jaringan, pembuatan website, dan CCTV:
 
-#### Header 4
+Beam Networking
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Solusi Teknologi untuk Bisnis Anda
 
+Kami menyediakan layanan teknologi terpadu:
 
-###### Header 6
+Manajemen Jaringan: Desain, implementasi, pemeliharaan, dan keamanan jaringan.
+Pembuatan Website: Desain profesional, pengembangan fitur lengkap, dan optimasi SEO.
+CCTV: Instalasi, pemantauan jarak jauh, dan integrasi sistem keamanan.
+Hubungi Kami:
 
-| head1        | head two          | three |
+[Nomor Telepon]
+[Alamat Email]
+[Situs Web]
+
+###### 
+| Network        | Website          | CCTV |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
+| ok           | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
+<dt>Beamguide</dt>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
 
-```
-The final element.
-```
