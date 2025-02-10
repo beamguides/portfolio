@@ -15,7 +15,7 @@ CCTV: Instalasi, pemantauan jarak jauh, dan integrasi sistem keamanan.
 
 *   Telegram : @beamguide
 *   email : beamguide@gmail.com
-*   website : ![click here](https://beamguides.github.io/portfolio)
+*   website : !(https://beamguides.github.io/portfolio/)
   
 * * *
 
