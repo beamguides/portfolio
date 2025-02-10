@@ -20,16 +20,18 @@ Hubungi Kami:
 [Alamat Email]
 [Situs Web]
 
-###### 
+###### Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
-| ok | good and plenty   | nice  |
+| out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### 
+### There's a horizontal rule below this.
+
+* * *
 
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
